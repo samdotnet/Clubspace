@@ -6,7 +6,7 @@ module.exports = {
     extend: {},
     fontFamily: {
       'serif':['"DM Serif Display"', 'serif'],
-      'sans':['Rubik', 'sans-serif'],
+      'header':['Unbounded', 'cursive'],
       'mono':['"Roboto Mono"', 'monospace']
     }
   },
